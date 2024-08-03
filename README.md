@@ -21,6 +21,7 @@ The dataset contains information about legal cases involving payment violations.
 - Outcome
 - Relevant Regulations Violated
 - Links to Official Documents/Press Release
+- Loan dataset link: [lc_loan](https://drive.google.com/file/d/1E0pVDzFF3IOO1kD9-LbBhtnfG42tag_E/view?usp=sharing)
 
 ## Data Preparation and Cleaning
 The data preparation and cleaning process involves:
